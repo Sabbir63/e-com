@@ -1,0 +1,430 @@
+/*X-Large devices (large desktops, less than 1400px)*/
+@media (max-width: 1399.98px) {}
+
+
+/*Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) {
+	.nav-icons .n_i {
+	margin-left: 21px !important;
+}
+	.latest-head h3::after {
+	left: 24% !important;
+}
+	.latest-head h3::before {
+	right: 221px !important;
+}
+	.Hove-heading h2::after {
+	left: 32% !important;
+}
+	.Hove-heading h2::before {
+	left: 60% !important;
+}	
+	.slide-text h3::after {
+	left: 22% !important;
+}	
+	.slide-text h3::before {
+	left: 69% !important;
+}
+	.f-heading ul li a {
+	font-size: 14px !important;
+}
+	.pay_area a {
+	font-size: 35px !important;
+}
+	.iconarea a {
+	margin: 0 18px 0 0px !important;
+}
+	.iconarea {
+	padding-top: 0px !important;
+}
+}
+
+/*Medium devices (tablets, less than 992px)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.banner-text {
+	text-align: center !important;
+	margin-left: 0 !important;
+}
+		#vijible {
+	opacity: 0 !important;
+	visibility: hidden !important;
+}
+	#vijible {
+	visibility: hidden !important;
+	width: 0;
+}
+	#hidden {
+	opacity: 1 !important;
+	visibility: visible !important;
+	width: 50% !important;
+	overflow: visible !important;
+	overflow-x: visible !important;
+	height: auto !important;
+	display: block !important;
+}
+	.nav-item .nav-links {
+	display: block !important;
+}
+	#navbarNavDropdown {
+	background: rgba(74, 114, 144, 0.67);
+}
+	.nav-item .nav-links a {
+	padding: 10px 17px;
+}
+	
+	.nav-item {
+	display: block !important;
+}
+.nav-icons {
+	display: inline-flex !important;
+	width: 0% !important;
+	padding: 0 !important;
+	margin-left: 245px !important;
+}
+	.Hove-heading h2::after {
+	left: 27% !important;
+}
+	.Hove-heading h2::before {
+	left: 63% !important;
+}
+	.latest-head h3::before {
+	right: 100px !important;
+}
+	.latest-head h3::after {
+	left: 15% !important;
+}
+	#heit img {
+	height: 256px !important;
+}
+	#latest {
+	margin-left: 40% !important;
+	width: 129% !important;
+	padding-top: 40px !important;
+}
+	.slide-text h3::after {
+	left: 19% !important;
+}
+	.slide-text h3::before {
+	left: 71% !important;
+}
+	.left-arrow {
+	top: 29% !important;
+	width: 25px !important;
+	border-radius: 0 !important;
+}
+	.right-arrow {
+	top: 28% !important;
+	width: 26px !important;
+	border-radius: 0 !important;
+}
+.foot-content {
+	text-align: center !important;
+}
+	.address-area p {
+	text-align: left !important;
+}
+	.address-area {
+	margin-left: 24% !important;
+}
+	
+	
+	.email-con p {
+	text-align: left !important;
+}
+	.email-con{
+	margin-left: 34% !important;
+}
+.con-phone {
+	margin-left: 38% !important;
+}
+	.con-phone p {
+	text-align: left !important;
+}
+	
+	
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.nav-item .nav-links {
+	display: block !important;
+}
+	#navbarNavDropdown {
+	background: rgba(74, 114, 144, 0.67);
+}
+	.nav-item .nav-links a {
+	padding: 10px 17px;
+}
+	
+	.nav-item {
+	display: block !important;
+}
+.nav-icons {
+	display: inline-flex !important;
+	width: 0% !important;
+	padding: 0 !important;
+	margin-left: 165px !important;
+}
+	
+.mega_content {
+	top: 197px !important;
+	width: 113% !important;
+	left: -37px !important;
+}
+	.Image-menu {
+	width: 33% !important;
+}
+	.con-head {
+	font-size: 17px !important;
+	padding-bottom: 0 !important;
+}
+	.banner-text {
+	padding: 100px 22px 0 37px !important;
+	margin: 0 !important;
+}
+	.Hove-heading h2::after {
+	left: 17% !important;
+}
+	.Hove-heading h2::before {
+	left: 69% !important;
+}
+	.latest-head h3::before {
+	right: 0 !important;
+}
+	
+	.latest-head h3::after {
+	left: 0 !important;
+}
+.latest-part {
+	padding-bottom: 22px !important;
+	margin-left: 11px !important;
+	width: 100% !important;
+}
+	.slide-text h3::after {
+	left: 0% !important;
+}
+.slide-text h3::before {
+	left: 82% !important;
+}
+	.slide_img img {
+	width: %;
+}
+	.left-arrow {
+	top: 8% !important;
+		width: 22px !important;
+	border-radius: 0 !important;
+}
+
+	.right-arrow {
+	top: 12% !important;
+	width: 22px !important;
+	border-radius: 0 !important;
+}
+	.foot-content {
+	padding-top: 20px !important;
+	text-align: center !important;
+}
+	.address-area {
+	padding-left: 16% !important;
+}
+	.address-area p {
+	text-align: left !important;
+}
+	.email-con {
+	padding-left: 29% !important;
+}
+	.email-con p {
+	text-align: left !important;
+}
+		.con-phone {
+	padding-left: 34% !important;
+}
+	.con-phone p {
+	text-align: left !important;
+}
+	.pay_area a i {
+	width: 100%;
+	padding: 26px 15px 0px 17px !important;
+	padding-bottom: 0;
+}
+	
+	#vijible {
+	opacity: 0 !important;
+	visibility: hidden !important;
+}
+	#vijible {
+	visibility: hidden !important;
+	width: 0;
+}
+	#hidden {
+	opacity: 1 !important;
+	visibility: visible !important;
+	width: 50% !important;
+	overflow: visible !important;
+	overflow-x: visible !important;
+	height: auto !important;
+	display: block !important;
+}
+
+	
+}
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.nav-item .nav-links {
+	display: block !important;
+}
+#navbarNavDropdown {
+	background: rgb(74, 114, 144) !important;
+	width: 100% !important;
+}
+	.nav-item .nav-links a {
+	padding: 10px 17px;
+}
+
+.nav-item {
+	display: block !important;
+}
+.nav-icons {
+	padding: 0;
+	margin-left: 165px;
+}
+.nav-icons {
+	display: inline-flex !important;
+	width: 0% !important;
+	padding: 0 !important;
+	margin-left: 24px !important;
+}
+	
+.mega_content {
+	top: 197px !important;
+	width: 113% !important;
+	left: -37px !important;
+}
+	.Image-menu {
+	width: 33% !important;
+}
+	.con-head {
+	font-size: 17px !important;
+	padding-bottom: 0 !important;
+}
+	.banner-text {
+	padding: 100px 22px 0 37px !important;
+	margin: 0 !important;
+}
+	.Hove-heading h2::after {
+	left: 3% !important;
+}
+	.Hove-heading h2::before {
+	left: 77% !important;
+}
+.latest-head h3::before {
+	right: 0 !important;
+	width: 42px !important;
+}	
+.latest-head h3::after {
+	left: 0 !important;
+	width: 43px !important;
+}
+	.Hover_mage {
+	padding-left: 10px !important;
+	width: 105% !important;
+}
+	.Hover_image {
+	padding-left: 10px !important;
+	width: 105% !important;
+}
+	.hove-text {
+	padding-left: 12px !important;
+}
+.latest-part {
+	padding-bottom: 22px !important;
+	margin-left: 11px !important;
+	width: 100% !important;
+}
+	.slide-text h3::after {
+	display: none !important;
+}
+.slide-text h3::before {
+	display: none !important;
+}
+	.slide_img img {
+	width: %;
+}
+.left-arrow {
+	top: 0 !important;
+	width: 20px !important;
+	border-radius: 0 !important;
+	height: 51px !important;
+}
+.right-arrow {
+	top: 3% !important;
+	width: 22px !important;
+	border-radius: 0 !important;
+	height: 50px;
+}
+	.foot-content {
+	padding-top: 20px !important;
+	text-align: center !important;
+}
+	.address-area {
+	padding-left: 3% !important;
+}
+	.address-area p {
+	text-align: left !important;
+}
+	
+
+		.email-con {
+	padding-left: 21% !important;
+}
+	.email-con p {
+	text-align: left !important;
+}
+		.con-phone {
+	padding-left: 27% !important;
+}
+	.con-phone p {
+	text-align: left !important;
+}
+	.pay_area a i {
+	width: 100%;
+	padding: 26px 15px 0px 17px !important;
+	padding-bottom: 0;
+}
+	
+	#vijible {
+	opacity: 0 !important;
+	visibility: hidden !important;
+}
+	#vijible {
+	visibility: hidden !important;
+	width: 0;
+}
+		#vijible {
+	opacity: 0 !important;
+	visibility: hidden !important;
+}
+	#vijible {
+	visibility: hidden !important;
+	width: 0;
+}
+	#hidden {
+	opacity: 1 !important;
+	visibility: visible !important;
+	width: 100% !important;
+	overflow: visible !important;
+	overflow-x: visible !important;
+	height: auto !important;
+	display: block !important;
+}
+	
+	
+	
+	
+	
+	
+}
+// XX-Large devices (larger desktops)
+// No media query since the xxl breakpoint has no upper bound on its width
